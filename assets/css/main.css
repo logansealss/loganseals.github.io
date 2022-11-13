@@ -4054,11 +4054,12 @@ body.is-mobile #main>header {
 
 #footer .icons a {
 	color: rgba(255, 255, 255, 0.5);
+	
 }
 
-#footer .icons a:hover {
+/* #footer .icons a:hover {
 	color: #fff;
-}
+} */
 
 #footer .copyright {
 	color: rgba(255, 255, 255, 0.5);
