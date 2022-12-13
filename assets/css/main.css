@@ -4170,6 +4170,8 @@ body.is-mobile.landing #footer {
     width: 275px;
     height: 275px;
     border-radius: 10px;
+    /* border-radius: 50%; */
+
 }
 
 .banner-about{
